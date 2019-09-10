@@ -6,14 +6,9 @@ using UniManager.App.Models.Common;
 
 namespace UniManager.App.Models.Employees
 {
-    public interface IEmployee : IPerson
+    public interface IFaculty : IEmployee
     {
-        int Id { get; set; }
-
-        string EmployeeId { get; set; }
-
-        Department Department { get; set; }
-
-        decimal Salary { get; set; }
+        string Subject { get; set; }
+        FacultyTitle Title { get; set; }
     }
 }

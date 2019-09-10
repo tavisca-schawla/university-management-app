@@ -13,7 +13,7 @@ namespace UniManager.App.Models.Employees
 
         Address Address { get; set; }
 
-        long PhoneNumber { get; set; }
+        string PhoneNumber { get; set; }
 
     }
 }
