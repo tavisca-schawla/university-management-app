@@ -13,4 +13,9 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UniManager.Api\UniManager.Api.csproj" />
+    <ProjectReference Include="..\UniManager.App\UniManager.App.csproj" />
+  </ItemGroup>
+
 </Project>

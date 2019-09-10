@@ -1,0 +1,14 @@
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\bin\Debug\netcoreapp2.2\UniManager.Api.deps.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\bin\Debug\netcoreapp2.2\UniManager.Api.runtimeconfig.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\bin\Debug\netcoreapp2.2\UniManager.Api.runtimeconfig.dev.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\bin\Debug\netcoreapp2.2\UniManager.Api.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\bin\Debug\netcoreapp2.2\UniManager.Api.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.csprojAssemblyReference.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.csproj.CoreCompileInputs.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.RazorAssemblyInfo.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.RazorAssemblyInfo.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.AssemblyInfoInputs.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.AssemblyInfo.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.RazorTargetAssemblyInfo.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Api\obj\Debug\netcoreapp2.2\UniManager.Api.pdb

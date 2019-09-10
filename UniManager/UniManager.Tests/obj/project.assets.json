@@ -1714,6 +1714,26 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "UniManager.Api/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/UniManager.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniManager.Api.dll": {}
+        }
+      },
+      "UniManager.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/UniManager.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniManager.App.dll": {}
+        }
       }
     }
   },
@@ -5977,6 +5997,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "UniManager.Api/1.0.0": {
+      "type": "project",
+      "path": "../UniManager.Api/UniManager.Api.csproj",
+      "msbuildProject": "../UniManager.Api/UniManager.Api.csproj"
+    },
+    "UniManager.App/1.0.0": {
+      "type": "project",
+      "path": "../UniManager.App/UniManager.App.csproj",
+      "msbuildProject": "../UniManager.App/UniManager.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5984,6 +6014,8 @@
       "FluentAssertions >= 5.9.0",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
       "Microsoft.NETCore.App >= 2.2.0",
+      "UniManager.Api >= 1.0.0",
+      "UniManager.App >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -6017,7 +6049,14 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.Api\\UniManager.Api.csproj": {
+              "projectPath": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.Api\\UniManager.Api.csproj"
+            },
+            "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.App\\UniManager.App.csproj": {
+              "projectPath": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.App\\UniManager.App.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

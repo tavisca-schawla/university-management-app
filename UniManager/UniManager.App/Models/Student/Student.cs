@@ -7,7 +7,7 @@ using UniManager.App.Models.Employees;
 
 namespace UniManager.App.Models.Student
 {
-    public class Student : IPerson, IStudent
+    public class Student: IPerson, IStudent
     {
         public int Name { get; set; }
         public Gender Gender { get; set; }

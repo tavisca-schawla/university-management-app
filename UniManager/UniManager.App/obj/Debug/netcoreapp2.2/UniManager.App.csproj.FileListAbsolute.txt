@@ -28,3 +28,33 @@ C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManage
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.dll
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.pdb
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.csproj.CopyComplete
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\bin\Debug\netcoreapp2.2\UniManager.App.deps.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\bin\Debug\netcoreapp2.2\UniManager.App.runtimeconfig.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\bin\Debug\netcoreapp2.2\UniManager.App.runtimeconfig.dev.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\bin\Debug\netcoreapp2.2\UniManager.App.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\bin\Debug\netcoreapp2.2\UniManager.App.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\bin\Debug\netcoreapp2.2\UniManager.App.Views.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\bin\Debug\netcoreapp2.2\UniManager.App.Views.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.csprojAssemblyReference.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.csproj.CoreCompileInputs.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.RazorAssemblyInfo.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.RazorAssemblyInfo.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.AssemblyInfoInputs.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.AssemblyInfo.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.TagHelpers.input.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.TagHelpers.output.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.RazorCoreGenerate.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.RazorTargetAssemblyInfo.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.RazorTargetAssemblyInfo.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.Views.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.App\obj\Debug\netcoreapp2.2\UniManager.App.csproj.CopyComplete

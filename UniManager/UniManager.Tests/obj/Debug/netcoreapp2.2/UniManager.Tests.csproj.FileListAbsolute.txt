@@ -9,3 +9,24 @@ C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManage
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.csproj.CoreCompileInputs.cache
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.AssemblyInfoInputs.cache
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.AssemblyInfo.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.App.Views.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.App.Views.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.Tests.deps.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.Tests.runtimeconfig.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.Tests.runtimeconfig.dev.json
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.Tests.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.Tests.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.Api.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.App.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.Api.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.App.pdb
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.csprojAssemblyReference.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.AssemblyInfoInputs.cache
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.AssemblyInfo.cs
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.csproj.CopyComplete
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.dll
+C:\Users\dshrivastav\Videos\SelfStudy\university-management-app\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.pdb
