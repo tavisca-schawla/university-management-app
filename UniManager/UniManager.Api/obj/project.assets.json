@@ -11916,7 +11916,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
@@ -12070,23 +12070,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\schawla\\.nuget\\packages\\": {},
+    "C:\\Users\\dshrivastav\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sundesh\\Training\\Self Practice\\University Management App\\UniManager\\UniManager.Api\\UniManager.Api.csproj",
+      "projectUniqueName": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.Api\\UniManager.Api.csproj",
       "projectName": "UniManager.Api",
-      "projectPath": "C:\\Sundesh\\Training\\Self Practice\\University Management App\\UniManager\\UniManager.Api\\UniManager.Api.csproj",
-      "packagesPath": "C:\\Users\\schawla\\.nuget\\packages\\",
-      "outputPath": "C:\\Sundesh\\Training\\Self Practice\\University Management App\\UniManager\\UniManager.Api\\obj\\",
+      "projectPath": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.Api\\UniManager.Api.csproj",
+      "packagesPath": "C:\\Users\\dshrivastav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\schawla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dshrivastav\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
