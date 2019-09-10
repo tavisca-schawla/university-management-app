@@ -7,15 +7,17 @@ using Xunit;
 
 namespace UniManager.Tests.Employees
 {
-    public class EmployeeFixture
+    public class FacultyFixture
     {
         [Fact]
-        public void Employee_should_have_basic_fields()
+        public void Faculty_should_have_basic_fields()
         {
-            Employee employee = new Employee();
+            Faculty employee = new Faculty();
             employee.GetType().GetProperty("Id").Should().NotBeNull();
             employee.GetType().GetProperty("EmployeeId").Should().NotBeNull();
             employee.GetType().GetProperty("Department").Should().NotBeNull();
+            employee.GetType().GetProperty("Title").Should().NotBeNull();
+            employee.GetType().GetProperty("Subject").Should().NotBeNull();
             employee.GetType().GetProperty("Salary").Should().NotBeNull();
             employee.GetType().GetProperty("Name").Should().NotBeNull();
             employee.GetType().GetProperty("Gender").Should().NotBeNull();

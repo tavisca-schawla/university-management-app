@@ -9,3 +9,11 @@ C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManage
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.csproj.CoreCompileInputs.cache
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.AssemblyInfoInputs.cache
 C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.AssemblyInfo.cs
+C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.App.Views.dll
+C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.App.Views.pdb
+C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.Tests.pdb
+C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.App.dll
+C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\bin\Debug\netcoreapp2.2\UniManager.App.pdb
+C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.csproj.CopyComplete
+C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.dll
+C:\Sundesh\Training\Self Practice\University Management App\UniManager\UniManager.Tests\obj\Debug\netcoreapp2.2\UniManager.Tests.pdb

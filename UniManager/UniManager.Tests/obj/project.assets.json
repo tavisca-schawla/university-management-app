@@ -1714,6 +1714,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "UniManager.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/UniManager.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniManager.App.dll": {}
+        }
       }
     }
   },
@@ -5977,6 +5987,11 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "UniManager.App/1.0.0": {
+      "type": "project",
+      "path": "../UniManager.App/UniManager.App.csproj",
+      "msbuildProject": "../UniManager.App/UniManager.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5984,6 +5999,7 @@
       "FluentAssertions >= 5.9.0",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
       "Microsoft.NETCore.App >= 2.2.0",
+      "UniManager.App >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -6017,7 +6033,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Sundesh\\Training\\Self Practice\\University Management App\\UniManager\\UniManager.App\\UniManager.App.csproj": {
+              "projectPath": "C:\\Sundesh\\Training\\Self Practice\\University Management App\\UniManager\\UniManager.App\\UniManager.App.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
