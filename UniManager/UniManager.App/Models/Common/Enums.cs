@@ -9,5 +9,5 @@ namespace UniManager.App.Models.Common
 
     public enum Department { Accounts, Administration, ComputerScience, Electronics, Mechanical, Civil }
 
-    public enum FacultyTitle { AssociateProfessor, Professor, SeniorProfessor, Doctor, HOD, AssistantHOD }
+    public enum FacultyTitle { AssociateProfessor, Professor, SeniorProfessor, Doctor, HOD, AssistantHOD }    
 }
