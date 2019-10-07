@@ -1714,6 +1714,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "UniManager.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/UniManager.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniManager.App.dll": {}
+        }
       }
     }
   },
@@ -2487,7 +2497,7 @@
       ]
     },
     "Microsoft.Win32.Registry/4.0.0": {
-      "sha512": "q+eLtROUAQ3OxYA5mpQrgyFgzLQxIyrfT2eLpYX5IEPlHmIio2nh4F5bgOaQoGOV865kFKZZso9Oq9RlazvXtg==",
+      "sha512": "gqebazanuc1pAcPVG1P1CljWXeZk1XfwSX9Omy4NkF6hY1isdpVTmqa2kO9fJrM7iQdesljuxIx8acpQ7uukxw==",
       "type": "package",
       "path": "microsoft.win32.registry/4.0.0",
       "files": [
@@ -3274,7 +3284,7 @@
       ]
     },
     "System.Diagnostics.Process/4.1.0": {
-      "sha512": "mpVZ5bnlSs3tTeJ6jYyDJEIa6tavhAd88lxq1zbYhkkCu0Pno2+gHXcvZcoygq2d8JxW3gojXqNJMTAshduqZA==",
+      "sha512": "Y3rdajHEh2NHRu5zqtDs6SFB/DsXec3xo33oKxjQdHJ7wre1LgMWsvl8/xrezJcW7omXp4FXk5pLfHiZbCXDcQ==",
       "type": "package",
       "path": "system.diagnostics.process/4.1.0",
       "files": [
@@ -4873,7 +4883,7 @@
       ]
     },
     "System.Runtime.Loader/4.0.0": {
-      "sha512": "4UN78GOVU/mbDFcXkEWtetJT/sJ0yic2gGk1HSlSpWI0TDf421xnrZTDZnwNBapk1GQeYN7U1lTj/aQB1by6ow==",
+      "sha512": "KIKSxS4ZWku1uYSOYDGTgATpu3D9jYC7P9RBbiJzpNX40fZ0e7X7aJzCdTv2V9Sy3cFZLFeXHO6w7kQmKyvqng==",
       "type": "package",
       "path": "system.runtime.loader/4.0.0",
       "files": [
@@ -5441,7 +5451,7 @@
       ]
     },
     "System.Threading.Thread/4.0.0": {
-      "sha512": "gIdJqDXlOr5W9zeqFErLw3dsOsiShSCYtF9SEHitACycmvNvY8odf9kiKvp6V7aibc8C4HzzNBkWXjyfn7plbQ==",
+      "sha512": "F/mTKYkC9Q0JyDaRvlr3LKHpSNBg1OZ87reLMlDmmW+vranPUl6dlRFNSUzcge6111aFR/29PURhlzmLkGrfrA==",
       "type": "package",
       "path": "system.threading.thread/4.0.0",
       "files": [
@@ -5977,6 +5987,11 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "UniManager.App/1.0.0": {
+      "type": "project",
+      "path": "../UniManager.App/UniManager.App.csproj",
+      "msbuildProject": "../UniManager.App/UniManager.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5984,28 +5999,29 @@
       "FluentAssertions >= 5.9.0",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
       "Microsoft.NETCore.App >= 2.2.0",
+      "UniManager.App >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\schawla\\.nuget\\packages\\": {},
+    "C:\\Users\\dshrivastav\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sundesh\\Training\\Self Practice\\University Management App\\UniManager\\UniManager.Tests\\UniManager.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.Tests\\UniManager.Tests.csproj",
       "projectName": "UniManager.Tests",
-      "projectPath": "C:\\Sundesh\\Training\\Self Practice\\University Management App\\UniManager\\UniManager.Tests\\UniManager.Tests.csproj",
-      "packagesPath": "C:\\Users\\schawla\\.nuget\\packages\\",
-      "outputPath": "C:\\Sundesh\\Training\\Self Practice\\University Management App\\UniManager\\UniManager.Tests\\obj\\",
+      "projectPath": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.Tests\\UniManager.Tests.csproj",
+      "packagesPath": "C:\\Users\\dshrivastav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\schawla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dshrivastav\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6017,7 +6033,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.App\\UniManager.App.csproj": {
+              "projectPath": "C:\\Users\\dshrivastav\\Videos\\SelfStudy\\university-management-app\\UniManager\\UniManager.App\\UniManager.App.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
